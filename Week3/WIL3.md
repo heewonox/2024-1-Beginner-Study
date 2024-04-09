@@ -5,8 +5,8 @@
 - [`git log`](#git-log)
 - [`git status`](#git-status)
 - [amend](#commit---amend)
-- [rest]()
-- [revert]()
+- [reset](#reset)
+- [revert](#revert)
 
 ### `git log`
 
