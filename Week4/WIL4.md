@@ -63,7 +63,7 @@
 
 ### Branch Strategy : GitHub Flow
 
-<img src="https://raw.githubusercontent.com/heewonox/test1/main/git_flow__.png" style="width: 60%">
+<img src="https://github.com/heewonox/test1/blob/main/github_flow.png?raw=true" style="width: 60%">
 
 Git Flow가 배포가 수시로 이루어지는 현 시대의 웹앱에는 부적합하여서 고안한 방법이다
 
