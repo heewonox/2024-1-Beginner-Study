@@ -69,6 +69,8 @@ Git Flow가 배포가 수시로 이루어지는 현 시대의 웹앱에는 부�
 
 GitFlow를 개발한 Vincent Driessen도 이와 같은 전략을 추천한다
 
+#### 브랜치 종류
+
 - main
 
 	항상 배포 가능 상태로 유지하며 develop과 release가 사라졌기 때문에 main으로 병합하기 전에는 충분한 테스트가 필요하다
